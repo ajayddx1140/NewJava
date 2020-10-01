@@ -10,6 +10,11 @@ Class Add {
     
     System.out.println(a-b);
     System.out.println(a/b);
+    
+    b = 23;
+    System.out.println("Addition of a and b is: ");
+    System.out.println(a+b);
+
 
   }
 }
